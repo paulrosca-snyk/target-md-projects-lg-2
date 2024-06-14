@@ -1,0 +1,24 @@
+{
+  "name": "project-30",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@archer_lhb/testbuu": "^1.0.0",
+    "@lpalmeida-ui/react": "^6.1.0",
+    "@txo-peer-dep/observable-redux": "^2.0.1",
+    "@zurchonik/tea4you": "^1.1.4",
+    "app-vline-reservation-show": "^0.0.0",
+    "aspnet-scaffolder": "^1.2.2",
+    "kloaewee": "^1.1.5",
+    "mrth001-s_calculator": "^1.0.0",
+    "node-chat-app": "^1.0.0",
+    "yindu-wipe": "^2.0.4"
+  }
+}

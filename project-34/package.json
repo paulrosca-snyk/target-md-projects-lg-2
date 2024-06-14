@@ -1,0 +1,24 @@
+{
+  "name": "project-34",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyper.fun/fa-cannabis": "^1.3.0",
+    "@lili1234/porek63": "^1.1.4",
+    "@ng-tools/if-animate": "^0.0.6",
+    "@vonage/video-publisher": "^0.0.7",
+    "@wgb5445/aptos-token-objects": "^1.0.2",
+    "@wraathhh/a444n": "^1.0.0",
+    "hc-camera": "^1.1.3",
+    "my-test-cli-package": "^1.1.2",
+    "property-process": "^0.4.5",
+    "styless-ui": "^1.0.2"
+  }
+}

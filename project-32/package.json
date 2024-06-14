@@ -1,0 +1,24 @@
+{
+  "name": "project-32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huntabyte/bits-ui": "^0.0.37",
+    "@liquality/bitcoin-cash-rest-swap-find-provider": "^1.6.2",
+    "@tudorilisoi/strapi-provider-email-nodemailer-smtp": "^1.0.2",
+    "babel-preset-react-app-nohbdy": "^3.1.1",
+    "ggserver": "^0.1.20",
+    "ngx-hellojs": "^0.1.2",
+    "ocha-rojak65-sukiwir": "^4.1.2",
+    "perfmon-http-request": "^0.0.4",
+    "taskobject": "^2.1.12",
+    "use-window-resize-handler": "^1.0.4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "project-28",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jair2-arc/hulkys": "^1.1.6",
+    "@realhealth/rhb-knex": "^1.1.2",
+    "@sergeymr/node-gyp": "^6.0.1",
+    "@tillhub/numpad": "^2.2.2",
+    "@uni_wallet/util": "^0.1.6",
+    "babel-preset-danwi": "^1.0.2",
+    "boiler-task-copy": "^3.6.0",
+    "generator-ice-vue3": "^1.0.10",
+    "jj2-number-guessing-game": "^1.0.0",
+    "nestjs-graphql-validator": "^0.0.12"
+  }
+}

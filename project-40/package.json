@@ -1,0 +1,24 @@
+{
+  "name": "project-40",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyper.fun/fluentui-emoji-woman-juggling-color-medium-dark": "^2.0.0",
+    "@sreelakshmiyes/my-first-npm-module": "^1.0.0",
+    "baodaren-person-components": "^0.1.11",
+    "how-to-build-components-by-tailwindcss-vue": "^0.0.1",
+    "kresna-semur30-breki": "^1.4.3",
+    "lnsr": "^1.0.1",
+    "minibox": "^1.0.0",
+    "multiple-array-filter": "^1.0.8",
+    "oktafian-ruwet41-sukiwir": "^3.2.2",
+    "woodenlog-12341234": "^1.0.0"
+  }
+}

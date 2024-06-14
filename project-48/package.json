@@ -1,0 +1,24 @@
+{
+  "name": "project-48",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@brendanle.dev/the_mandalorian_api--schemas": "^1.0.1",
+    "@studiohb/vat-calculator": "^1.0.0",
+    "genpass_hw": "^1.0.4",
+    "ionic-plugin-deploy": "^0.6.7",
+    "maximenatus": "^1.0.1",
+    "neweb-transport-socket.io": "^0.0.3",
+    "nil_test": "^1.0.0",
+    "s-sequelize": "^6.21.6",
+    "talon-restart-cli": "^1.0.0",
+    "zox-graphgql-ws": "^1.0.0"
+  }
+}

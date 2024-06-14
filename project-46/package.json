@@ -1,0 +1,24 @@
+{
+  "name": "project-46",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@characters/greater-than-sign": "^2.1.0",
+    "@ronstrauss/simple-npm-package": "^1.0.1",
+    "angular-library-play": "^0.0.0",
+    "flwoaygioclgantefrn": "^1.0.0",
+    "interpunct": "^0.0.0-pre",
+    "koishi-plugin-alipay-voice": "^1.0.2",
+    "no-poking-me": "^1.1.0",
+    "pulluplixiao": "^1.0.0",
+    "smddds": "^0.1.1",
+    "yoriqulov-editor": "^2.0.8-alpha.0"
+  }
+}

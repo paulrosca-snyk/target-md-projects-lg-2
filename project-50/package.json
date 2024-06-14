@@ -1,0 +1,29 @@
+{
+  "name": "project-50",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@arendneels/npm-package-publish-test": "^1.0.1",
+    "@prasannakumarbhursu/common": "^1.0.2",
+    "buzdnl-devapptea": "^1.1.4",
+    "creacionlibrerias": "^0.1.1",
+    "expo-cache-image": "^1.0.7",
+    "gantt-task-react-vie": "^0.0.13",
+    "hadi-telurtahu83-ruro": "^3.2.2",
+    "hand-or-man": "^1.0.0",
+    "mock-node-redis": "^0.56.5",
+    "my-mg-ll-poc": "^1.0.1",
+    "php-class-to-object": "^1.0.0",
+    "thuro2tea": "^1.1.4",
+    "w3-evm": "^1.2.2",
+    "xunzhao-huiyi-de-zhentan-men-di-mulian-erlingeryiyilingyisi": "^2023.209.0",
+    "zip-file-webpack-plugin": "^1.2.0"
+  }
+}

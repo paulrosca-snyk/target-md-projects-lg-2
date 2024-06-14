@@ -1,0 +1,24 @@
+{
+  "name": "project-36",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hussainibulama/gradely": "^1.0.0",
+    "@jetmiky/create-npm-package": "^1.0.0",
+    "@joinnus-team/eslint-config": "^1.2.0",
+    "@tessellation/server": "^0.0.11",
+    "gg-team-incongruities-chuffier": "^1.0.0",
+    "img2b64": "^1.0.0",
+    "kontrolleur": "^0.2.1",
+    "tinh-tong-v3": "^3.0.0",
+    "traccar": "^0.0.8",
+    "vue-color-ho": "^0.0.1"
+  }
+}

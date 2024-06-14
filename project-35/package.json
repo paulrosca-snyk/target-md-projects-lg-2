@@ -1,0 +1,24 @@
+{
+  "name": "project-35",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gourmet/server-impl-http": "^0.4.0",
+    "@hyper.fun/material-icon-shopify-filled": "^1.3.0",
+    "@jexsrs/dot2env": "^1.0.0",
+    "@thangjp/npm-demo-package-thang": "^1.0.0",
+    "bindy": "^1.0.14",
+    "demo-lzp1": "^1.0.1",
+    "hlmvoidmodule": "^0.0.1",
+    "lyf-love-wyj": "^1.1.1",
+    "microfrontendpoc-nestedapp": "^1.0.5",
+    "stats-promt-tea": "^1.0.0"
+  }
+}

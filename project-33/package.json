@@ -1,0 +1,24 @@
+{
+  "name": "project-33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@foundriesio/web-session": "^3.1.4",
+    "@kubex/cube-pagelet": "^3.0.0-pre.1",
+    "@novadiscovery/g2j-rename": "^1.1.0",
+    "ghcd": "^0.2.1",
+    "polpot1": "^1.1.6",
+    "react-native-zxing-generator": "^0.0.2",
+    "react-router-plain": "^1.2.4",
+    "techno-gendoc": "^0.4.1",
+    "test-mlw2-opium-idyls": "^0.0.1-security",
+    "voluptatesquidem": "^1.3.1"
+  }
+}

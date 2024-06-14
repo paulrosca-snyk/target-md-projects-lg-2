@@ -1,0 +1,24 @@
+{
+  "name": "project-38",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@baiyun/prettier-config": "^1.0.1",
+    "@bem/entity-name": "^1.5.0",
+    "@moises_antonio/addlogging": "^1.0.0",
+    "@neos-project/eslint-config-neos": "^2.6.1",
+    "bit-conquer": "^1.0.0",
+    "filipgg-test": "^1.0.8",
+    "kubernetes-axios-informer": "^0.0.8",
+    "ly666qs": "^1.0.0",
+    "tdataset": "^0.0.1",
+    "ueditor-link": "^2.0.0"
+  }
+}

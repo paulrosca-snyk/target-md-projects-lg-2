@@ -1,0 +1,24 @@
+{
+  "name": "project-42",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@loonfactory/common": "^0.0.6",
+    "@myclique/awns-contracts": "^0.0.23",
+    "ccwc-tool": "^1.5.0",
+    "cms-test-tsj": "^1.0.0",
+    "coc-hls": "^0.0.2",
+    "mb2-simple-calculator": "^2.0.1",
+    "meehl": "^0.1.0",
+    "react-load-image": "^0.1.7",
+    "ryzh-math": "^1.0.1",
+    "vue-audio-cover-x": "^1.0.3"
+  }
+}

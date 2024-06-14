@@ -1,0 +1,24 @@
+{
+  "name": "project-43",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@typeup/parser": "^0.2.16",
+    "gpxfaker": "^1.0.0",
+    "hzs74": "^1.0.0",
+    "ketchupjs": "^1.2.5",
+    "lastfm-cli": "^1.0.9",
+    "lexleach-resume": "^1.0.0",
+    "npm-ornek-modul": "^1.0.0",
+    "simditor-html": "^1.1.1",
+    "starzuo": "^1.0.0",
+    "vue-select-lang": "^0.1.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "project-39",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kezziny/node-red-contrib-z2m-connector": "^1.0.9",
+    "@m-k/kariya": "^1.0.0",
+    "coursedio-bewgnilyts-bew-fo-rewop-eht-kcolnu-slatnemadnuf-ssc-sscskrowemarf-ssc-gnidnatsrednu": "^1.0.1",
+    "demo-xc": "^1.0.1",
+    "dual-publish": "^4.0.0",
+    "generator-ansible": "^0.0.5",
+    "rifqi-miebogor34-sluey": "^4.3.2",
+    "riot-mini-form": "^0.1.8",
+    "tttsssttt-components": "^0.1.0",
+    "udin-ikan57-ruro": "^3.4.4"
+  }
+}

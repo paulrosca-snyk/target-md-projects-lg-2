@@ -1,0 +1,24 @@
+{
+  "name": "project-29",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@devvit/plugins": "^0.10.9",
+    "@etn-sc/web3-plugin-example": "^1.0.6",
+    "@palazzinacreativa/social-contacts": "^0.1.15",
+    "@shopify/ui-extensions-internal-test": "^0.0.1",
+    "collectionplot-ui": "^1.2.0",
+    "data-api.js-core": "^0.0.1-security",
+    "dq-validator": "^0.0.11",
+    "dyke": "^1.0.0",
+    "ltcdr": "^2.2.1",
+    "video.js-enhanced": "^7.8.4-1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "project-44",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@josephdunn/ethereumjs-abi": "^0.6.5",
+    "@jupiterone/jupiter-change-management-client": "^0.1.0",
+    "@vlog/plugin-json": "^0.8.0",
+    "dabtbaqdynatcewsty": "^1.0.0",
+    "env-to-obj": "^1.0.0",
+    "fs-store": "^0.3.3",
+    "jaja-martabak7-breki": "^2.3.3",
+    "m89--todo_list--": "^1.0.0",
+    "passive_bird_dumbs": "^4.4.3",
+    "vvv": "^1.1.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "project-47",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@eviljs/webx": "^1.6.0",
+    "@fracturedgraphics/bellwether": "^0.2.0",
+    "@harmon.ie/email-util": "^0.0.11",
+    "@weiroll/weiroll.js": "^0.3.0",
+    "2k_simple_calculator": "^1.0.0",
+    "business-day": "^1.1.0",
+    "cordova-plugin-mongoose": "^1.0.0",
+    "pixi-transformer": "^1.0.2",
+    "qdict": "^0.0.2",
+    "xiaoming-blog": "^1.0.21"
+  }
+}
